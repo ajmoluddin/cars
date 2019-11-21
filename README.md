@@ -16,3 +16,13 @@
 #### Update/Delete a car
 - Put -> /api/v1/mycars/:mycar_id
 - Delete -> GET -> /api/v1/mycars/:mycar_id
+
+### Steps to start the application
+- Clone this repository
+- cd inside the repo
+- run "bundle install"
+- start the rails server -> "rails s"
+
+### Start Postman
+#### Hit this url
+- http://localhost:3000/api/v1/mycars
