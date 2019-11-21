@@ -4,11 +4,10 @@
 
 ### Routes that are currently working:
 
-### To get all cars:
 #### Add/create a new car to inventory:
 - Post -> /api/v1/mycars
 
-#### Get a specific car:
+#### To get all cars:
 - GET -> /api/v1/mycars
 
 #### Get a specific car:
